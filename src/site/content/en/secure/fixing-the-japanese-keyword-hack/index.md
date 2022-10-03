@@ -292,7 +292,6 @@ These tools scan your site and may be able to find problematic content.
 Other than VirusTotal, Google doesn't run or support them.
 
 [Virus Total](https://www.virustotal.com/),
-[Aw-snap.info](http://aw-snap.info/),
 [Sucuri Site Check](https://sitecheck.sucuri.net/),
 [Quttera](http://www.quttera.com/): These are just some tools that may be
 able to scan your site for problematic content. Keep in mind that these
